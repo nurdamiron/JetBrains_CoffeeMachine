@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-Pulls
-Issues
-Marketplace
-Explore
- 
-@nurdashymside 
-bywjge
-/
-Hyperskill_Coffee_Machine
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Hyperskill_Coffee_Machine/main.js /
-@bywjge
-bywjge Add files via upload
-Latest commit 49b8053 on 31 Jul
- History
- 1 contributor
-217 lines (156 sloc)  5.69 KB
-
-// Use "input()" to input a line from the user
-// Use "input(str)" to print some text before requesting input
-// You will need this in the following stages
 const input = require('sync-input')
 action = 'a'
 water = 400
@@ -242,18 +212,3 @@ while (action !== 'exit') {
 // console.log("Pouring coffee into the cup")
 // console.log("Pouring some milk into the cup")
 // console.log("Coffee is ready!")
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Hyperskill_Coffee_Machine/main.js at main · bywjge/Hyperskill_Coffee_Machine
